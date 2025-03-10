@@ -19,3 +19,5 @@
 📜 Project Status
 📌 This repository is private.
 This documentation provides an overview of the system without exposing the source code. If further details are required, please contact me.
+
+🔹 If you need further details, you can request access to the private repository. Please contact me directly to discuss access permissions.
